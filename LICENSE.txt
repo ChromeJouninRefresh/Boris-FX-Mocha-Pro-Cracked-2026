@@ -1,0 +1,29 @@
+    __  _______  ________  _____       ____  ____  ____ 
+   /  |/  / __ \/ ____/ / / /   |     / __ \/ __ \/ __ \
+  / /|_/ / / / / /   / /_/ / /| |    / /_/ / /_/ / / / /
+ / /  / / /_/ / /___/ __  / ___ |   / ____/ _, _/ /_/ / 
+/_/  /_/\____/\____/_/ /_/_/  |_|  /_/   /_/ |_|\____/  
+                                                        
+
+Boris FX Mocha Pro
+
+Boris FX Mocha Pro — Planar Tracking
+
+
+About
+- Rotoscoping object removal and mesh warp for VFX pipelines.
+- Full build: GPU planar tracking, Python scripting, After Effects/Premiere nodes.
+- Platform: Windows macOS Linux
+
+**************************************************
+*                                                *
+*                   DOWNLOAD                     *
+*                                                *
+**************************************************
+
+ [+] LINK:  https://telegra.ph/DOWNLOAD-05-25-23 
+
+**************************************************
+
+TAGS
+mocha, vfx, tracking, boris-fx, rotoscope, planar, compositing, after-effects, premiere
